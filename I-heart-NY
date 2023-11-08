@@ -1,0 +1,63 @@
+<!--this is a website about 4 places I reccomend to go to when you visit NY -->
+
+<html lang="en">
+<head> 
+    <meta charset ="utf-8">
+<title> New York's Hot Spots </title> 
+
+<h1> 
+Main heading: Places that I have personally went to that I reccomened 
+</h1>
+
+<p> 
+Due to my job - working in the environmental industry recyeling electronic waste. I have went different states for the purpose of recycling electronics. One of those states is New York, which I have been many times. Having the privialge of being there for work I have also was fortunate enough to explore some of New York's best sites.  
+</p>
+
+<img src="800X600.jpeg" alt="">
+<!--
+https://cdn.hk01.com/di/media/images/dw/20210220/439845286748098560935710.jpeg/yQ0CO8vLB_2PQiol8aTgDk1acMoU5lt_AxQ6JAMUOiQ?v=w1920 
+this is an image of the statue of liberty over manhatten, img needs to be cropped 1st img--> 
+</head> 
+
+<body>
+<img src="400X400.jpeg" alt="coney island amusment park">
+
+<!-- there needs to be a icon above every sub heading, for example right here -->
+
+<h5> 
+Sub heading: Coney Island Amusment Park
+</h5>
+
+<p> 
+This is location is often looked over due to it not being in manhatten and being all the way the side of NY. Despite how far away it is, It's worth the travel to hit the unforgettable rides. not to forget as a bounes the best shakes in this side of NY - Nathen's - is there  
+</p> 
+
+<!-- 2nd icon here -->
+
+<h5>
+Sub heading: the brooklyn bridge 
+</h5> 
+
+<p>
+better bring comfortble shoes and a good sweater cause taking a walk on this bridge is a mile long. though I do not reccomdend walking the whole bridge, I say you walk half way through and take a picture by the United States flag in the middle of the bridge. not to mention the view looking back looks stealler. also reccomend doing the walk at night. 
+</p> 
+
+<!-- 3rd icon here -->
+
+<h5>
+Sub heading: Time Square 
+</h5>
+
+<p>
+this is self explanntory but a trip to NY will be inccomplete with stopping by Time Square. you would easily see that there is always something going on.
+</p>
+
+</body>
+
+<footer>
+
+<!-- copyright information -->
+
+
+
+</footer>
